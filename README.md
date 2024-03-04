@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asjad-ilahi&label=Profile%20views&color=0e75b6&style=flat" alt="asjad-ilahi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asjad-ilahi&theme=darkhub" alt="asjad-ilahi" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/asjad13851" target="blank"><img src="https://img.shields.io/twitter/follow/asjad13851?logo=twitter&style=for-the-badge" alt="asjad13851" /></a> </p>
 
@@ -30,6 +30,4 @@
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asjad-ilahi&show_icons=true&locale=en&theme=dark&text_color=ffffff&icon_color=ffffff&title_color=ffffff" alt="asjad-ilahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad-ilahi&theme=dark" alt="asjad-ilahi" /></p>
