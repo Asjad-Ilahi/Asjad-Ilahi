@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/asjad13851" target="blank"><img src="https://img.shields.io/twitter/follow/asjad13851?logo=twitter&style=for-the-badge" alt="asjad13851" /></a> </p>
 
-- 🌱 I’m currently learning **Unity and Flutter**
+- 🌱 I’m currently learning **Unreal Engine and KMP**
 
 - 📫 How to reach me: **asjadilahi01@gmail.com**
 
